@@ -1,0 +1,20 @@
+{
+  "name": "grunt-base",
+  "version": "0.0.1",
+  "homepage": "https://github.com/whatsnewsaes/grunt-base",
+  "authors": [
+    "WhatsNewSaes <scoelen89@gmail.com>"
+  ],
+  "description": "a simple repo that includes all the base files you need to get started with a grunt project.",
+  "keywords": [
+    "Grunt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

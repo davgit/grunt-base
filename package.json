@@ -1,0 +1,8 @@
+{
+  "name": "grunt-base",
+  "version": "0.0.1",
+  "description": "Just helping you get started with grunt",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
